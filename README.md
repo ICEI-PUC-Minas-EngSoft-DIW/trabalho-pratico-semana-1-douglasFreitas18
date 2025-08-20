@@ -2,16 +2,18 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Douglas Freitas
+Matricula: 898839
 
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print do inspecionar](images/image.png)
 
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
+![Imagem do Replit](images/image2.png)
 
 
 ## Orientações sobre Linguagem MarkDown
